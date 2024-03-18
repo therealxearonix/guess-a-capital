@@ -1,4 +1,4 @@
-# guess-a-capital
+# guess a capital
 Console game where you should guess a capital of given country.
 
 In game there is 3 difficult levels:
