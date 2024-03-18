@@ -6,7 +6,7 @@ In game there is 3 difficult levels:
 - Medium
 - Hard
 
-Of course, the set of countries and the number of difficulty levels are quite sparse.
+Of course, set of countries and number of difficulty levels are quite sparse.
 
 And either you'll have to make do with what you have, or I'll get insipred someday and add something new.
 
